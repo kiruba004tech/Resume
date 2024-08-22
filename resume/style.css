@@ -1,0 +1,185 @@
+ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden; 
+    background-color: white;
+  }
+  
+  li {
+    float: right;
+  }
+  .con{
+    text-wrap: wrap;
+  }
+  #cont{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .project{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .first{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:azure;
+    border-radius: 5px;
+    height: 300px;
+    width: 300px;
+  }
+  .pro{
+    font-size: 20px;
+  }
+  .toup{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+  }
+  li a {
+    display: inline;
+    padding: 8px;
+    font-size: 20px;
+  }
+  #name{
+    float: left;
+    color:black;
+    font-size: 30px;
+  }
+  .hr{
+    font-size: 20px;
+    font: bold;
+    color: white;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  .folio{
+    color: white;
+  }
+  .line{
+    display: inline;
+    background-color: azure;
+  }
+  body{
+    background-color: black;
+  }
+  #new{
+    border:rgb(12, 109, 108);
+    color: black;
+    font-size: 15px;
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    align-content: center;
+    justify-content: center;
+  }
+  #photo{  
+    margin-left: 100px;
+    width: 250px;
+    height: 300px;
+    border-radius: 50%;
+  }
+  .ho{
+    background-color:azure;
+    border-radius: 5px;
+    margin-right: 5px;
+  }
+  #nam{
+    margin-left: 425px;
+    color:black;
+  }
+
+  .demo{
+    display: flex;
+    margin: auto black;
+  }
+  .bio{
+    margin-left: 100px;
+    font-size: 20px;
+    text-wrap: wrap;
+  }
+  #but1{
+    background-color:rgb(12, 109, 108);
+  }
+  #but1 a{
+    color:white;
+    font-size: 20px;
+  }
+  a{
+    text-decoration: none;
+  }
+  .skil1{
+    background-color:rgb(172, 222, 239);
+  }
+  .second{
+    display: flex;
+    flex-direction: row;
+    background-color:azure;
+    border-radius: 5px;
+
+  }
+  .container {
+    width: 100%;
+    background-color:azure;
+  }
+  .third{ 
+    display: flex;
+    flex-flow: column;
+    width: 500px;
+    height: 500px;
+    margin-left: 50px;
+    background-color:azure;
+    border-radius: 5px;
+  }
+  .four{ 
+    display: flex;
+    flex-flow: column;
+    width: 500px;
+    height: 500px;
+    margin-left:auto;
+    margin-right: 50px;
+    background-color: azure;
+    border-radius: 5px;
+  }
+
+  .skills{
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;}
+    .html {
+        width: 100%; 
+        background-color: #2196F3;}
+    .java{
+        width: 80%; 
+        background-color: #2196F3;  
+    }
+.css {
+    width: 80%; 
+    background-color: #2196F3;
+}
+.js {
+    width: 75%; 
+    background-color: #2196F3;}
+.angular {
+    width: 80%; 
+    background-color: #2196F3;
+}
+.telugu{
+    width: 60%;
+    background-color: #2196F3;
+}
+#fun{
+    background-color:rgb(12, 109, 108);
+    color: white;
+}
+input{
+    width: 300px;
+}
+#name{
+  font-size:larger;
+}
